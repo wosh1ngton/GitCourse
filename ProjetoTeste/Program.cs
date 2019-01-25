@@ -21,6 +21,8 @@ namespace ProjetoTeste
             }
 
             string oi = "oi";
+
+            int n = 250;
         }
     }
 }
